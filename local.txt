@@ -1,2 +1,4 @@
 some text in local branch!
-new text grom remote branch
+new text from remote branch
+
+working in local branch!
