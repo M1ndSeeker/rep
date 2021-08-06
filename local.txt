@@ -1,4 +1,1 @@
-some text in local branch!
-more text!
-new text grom remote branch
-
+null
