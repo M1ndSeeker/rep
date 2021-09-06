@@ -2,5 +2,5 @@ some text in local branch!
 new text from remote branch
 working in local branch!
 working in remote branch
-testing
+testing more
 
